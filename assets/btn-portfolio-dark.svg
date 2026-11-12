@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166" height="42" viewBox="0 0 166 42" fill="none">
+  <style>
+    text { font-family:'Plus Jakarta Sans','Segoe UI',system-ui,-apple-system,sans-serif; }
+    .bar { transform-box: fill-box; transform-origin: left; animation: barIn 0.8s cubic-bezier(.22,1,.36,1) both; }
+    @keyframes barIn { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <rect x="0.5" y="0.5" width="165" height="41" fill="#18181b" stroke="#3f3f46"/>
+  <rect class="bar" x="0" y="0" width="166" height="2" fill="#ed5d31"/>
+  <rect x="7" y="7" width="24" height="26" fill="#27272a" stroke="#27272a"/>
+  <rect x="13" y="13" width="12" height="12" stroke="#ed5d31" stroke-width="1.6"/><path d="M13 17H25" stroke="#ed5d31" stroke-width="1.4"/>
+  <text x="40" y="18" font-size="9.5" font-weight="800" letter-spacing="1.2" fill="#71717a">PORTFOLIO</text>
+  <text x="40" y="32" font-size="12" font-weight="700" fill="#fafafa">hannn.my.id</text>
+  <text x="154" y="25" font-size="13" font-weight="700" fill="#ed5d31" text-anchor="end">↗</text>
+</svg>

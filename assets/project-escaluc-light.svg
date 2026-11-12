@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="438" height="166" viewBox="0 0 438 166" fill="none">
+  <style>
+    text { font-family:'Plus Jakarta Sans','Segoe UI',system-ui,-apple-system,sans-serif; }
+    .sweep { transform-box: fill-box; transform-origin: left; animation: sweep 0.9s cubic-bezier(.22,1,.36,1) 0.1s both; }
+    @keyframes sweep { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  </style>
+  <g>
+    <rect x="0.5" y="0.5" width="437" height="165" fill="#FFFFFF" stroke="#CBD5E1"/>
+    <rect class="sweep" x="0" y="0" width="96" height="2.5" fill="#ed5d31"/>
+    <text x="20" y="30" font-size="11" font-weight="800" letter-spacing="1.4" fill="#ed5d31">01  ·  ERP &amp; POS</text>
+    <text x="418" y="30" font-size="11" font-weight="700" fill="#64748B" text-anchor="end">VIEW ↗</text>
+    <text x="20" y="60" font-size="21" font-weight="800" letter-spacing="-0.4" fill="#0F172A">Escaluc OS</text>
+    <text x="20" y="84" font-size="12.5" font-weight="500" fill="#475569">Sistem ERP &amp; omnichannel Point-of-Sale</text>
+    <text x="20" y="102" font-size="12.5" font-weight="500" fill="#475569">multi-cabang untuk ritel gadget &amp; stok IMEI.</text>
+    <g transform="translate(20,124)"><rect width="66" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="33" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">Laravel</text></g><g transform="translate(94,124)"><rect width="59" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="29.5" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">Vue.js</text></g><g transform="translate(161,124)"><rect width="66" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="33" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">Inertia</text></g><g transform="translate(235,124)"><rect width="72" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="36" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">Electron</text></g>
+  </g>
+</svg>

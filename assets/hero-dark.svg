@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="304" viewBox="0 0 900 304" fill="none">
+  <title>Muhammad Farhan — Fullstack Web Developer</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="304" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#09090b"/>
+      <stop offset="1" stop-color="#131317"/>
+    </linearGradient>
+    <radialGradient id="orbA" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#ed5d31" stop-opacity="0.48"/>
+      <stop offset="1" stop-color="#ed5d31" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbB" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fb923c" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#fb923c" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="rgba(255,255,255,0.045)" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ed5d31" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ed5d31"/>
+      <stop offset="1" stop-color="#ed5d31" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect width="900" height="304"/></clipPath>
+    <clipPath id="roleClip"><rect x="52" y="142" width="790" height="48"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family:'Plus Jakarta Sans','Segoe UI',system-ui,-apple-system,sans-serif; }
+    .orbA { animation: driftA 9s ease-in-out infinite alternate; }
+    .orbB { animation: driftB 11s ease-in-out infinite alternate; }
+    @keyframes driftA { from { transform: translate(0,0) scale(1); } to { transform: translate(85px,24px) scale(1.12); } }
+    @keyframes driftB { from { transform: translate(0,0) scale(1); } to { transform: translate(-75px,-20px) scale(1.15); } }
+
+    .eyebrow { animation: rise 0.6s cubic-bezier(.22,1,.36,1) both; }
+    .name    { animation: rise 0.7s cubic-bezier(.22,1,.36,1) both; }
+    .meta    { animation: rise 0.7s cubic-bezier(.22,1,.36,1) both; }
+    @keyframes rise { from { transform: translateY(8px); } to { transform: translateY(0); } }
+
+    .role { opacity: 0; animation: cycle 12s cubic-bezier(.22,1,.36,1) infinite; }
+    .r1 { animation-delay: -0.6s; }
+    .r2 { animation-delay: 2.4s; }
+    .r3 { animation-delay: 5.4s; }
+    .r4 { animation-delay: 8.4s; }
+    @keyframes cycle {
+      0%   { opacity: 0; transform: translateY(22px); }
+      5%   { opacity: 1; transform: translateY(0); }
+      22%  { opacity: 1; transform: translateY(0); }
+      27%  { opacity: 0; transform: translateY(-22px); }
+      100% { opacity: 0; transform: translateY(-22px); }
+    }
+
+    .line { transform-origin: left center; animation: grow 1.2s cubic-bezier(.22,1,.36,1) 0.6s both; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+
+    .scan { animation: scan 5.5s linear infinite; }
+    @keyframes scan { from { transform: translateX(-300px); } to { transform: translateX(1200px); } }
+
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.25; } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="900" height="304" fill="url(#bg)"/>
+    <rect width="900" height="304" fill="url(#grid)"/>
+    <g class="orbA"><circle cx="720" cy="70" r="195" fill="url(#orbA)"/></g>
+    <g class="orbB"><circle cx="780" cy="260" r="175" fill="url(#orbB)"/></g>
+    <rect class="scan" y="0" width="280" height="2" fill="url(#sweep)" opacity="0.8"/>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="303" stroke="#3f3f46" stroke-opacity="0.85"/>
+
+  <g class="eyebrow">
+    <rect x="56" y="48" width="8" height="8" fill="#10B981" class="pulse"/>
+    <text x="74" y="56" font-size="11.5" font-weight="700" letter-spacing="1.8" fill="#a1a1aa">AVAILABLE FOR WORK  ·  PEKANBARU, ID</text>
+    <text x="844" y="56" font-size="11" font-weight="700" letter-spacing="1.4" fill="#71717a" text-anchor="end">EST. 2022</text>
+  </g>
+
+  <g class="name">
+    <text x="54" y="124" font-size="56" font-weight="800" letter-spacing="-1.6" fill="#fafafa">Muhammad Farhan<tspan fill="#ed5d31">.</tspan></text>
+  </g>
+
+  <g clip-path="url(#roleClip)">
+    <g class="role r1"><text x="56" y="176" font-size="30" font-weight="700" fill="#ed5d31">Fullstack Web Developer</text></g>
+    <g class="role r2"><text x="56" y="176" font-size="30" font-weight="700" fill="#ed5d31">Founder of HanDigital</text></g>
+    <g class="role r3"><text x="56" y="176" font-size="30" font-weight="700" fill="#ed5d31">Next.js · React · Laravel</text></g>
+    <g class="role r4"><text x="56" y="176" font-size="30" font-weight="700" fill="#ed5d31">SaaS, ERP &amp; Digital Products</text></g>
+  </g>
+
+  <rect class="line" x="56" y="206" width="240" height="2" fill="#ed5d31"/>
+
+  <g class="meta">
+    <text x="56" y="242" font-size="14" font-weight="500" fill="#a1a1aa">Mahasiswa Teknik Informatika  ·  <!--years-->4<!--/years-->+ tahun membangun web &amp; sistem aplikasi</text>
+    <text x="56" y="268" font-size="13" font-weight="700" fill="#71717a">hannn.my.id  ·  handigital.biz.id<tspan fill="#ed5d31" class="cursor">  ▍</tspan></text>
+  </g>
+</svg>

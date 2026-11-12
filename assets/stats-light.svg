@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="332" viewBox="0 0 900 332" fill="none">
+  <defs>
+    <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ed5d31" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#ed5d31" stop-opacity="0.01"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family:'Plus Jakarta Sans','Segoe UI',system-ui,-apple-system,sans-serif; }
+    .n { animation: up .5s cubic-bezier(.22,1,.36,1) both; }
+    @keyframes up { from { transform: translateY(6px); } to { transform: none; } }
+    .b { transform-box: fill-box; transform-origin: left center; animation: grow .8s cubic-bezier(.22,1,.36,1) both; }
+    @keyframes grow { from { transform: scaleX(0.35); } to { transform: scaleX(1); } }
+    .sparkLine { stroke-dasharray: 1200; stroke-dashoffset: 0; animation: pulseLine 4s ease-in-out infinite; }
+    @keyframes pulseLine { 0%,100% { opacity: 1; } 50% { opacity: 0.72; } }
+    .dot { opacity: 1; }
+  </style>
+  <rect x="0.5" y="0.5" width="899" height="331" fill="#FFFFFF" stroke="#CBD5E1"/>
+  <text x="36" y="34" font-size="11.5" font-weight="800" fill="#ed5d31" letter-spacing="1.8">GITHUB OVERVIEW &amp; 12-MONTH CADENCE</text>
+  <g class="n" style="animation-delay:0.08s">
+        <text x="36" y="72" font-size="30" font-weight="800" fill="#0F172A" letter-spacing="-0.8">40</text>
+        <text x="36" y="92" font-size="10.5" font-weight="700" fill="#64748B" letter-spacing="1.1">PUBLIC REPOS</text>
+      </g><g class="n" style="animation-delay:0.17s">
+        <text x="201.6" y="72" font-size="30" font-weight="800" fill="#0F172A" letter-spacing="-0.8">2</text>
+        <text x="201.6" y="92" font-size="10.5" font-weight="700" fill="#64748B" letter-spacing="1.1">STARS EARNED</text>
+      </g><g class="n" style="animation-delay:0.26s">
+        <text x="367.2" y="72" font-size="30" font-weight="800" fill="#0F172A" letter-spacing="-0.8">1</text>
+        <text x="367.2" y="92" font-size="10.5" font-weight="700" fill="#64748B" letter-spacing="1.1">FOLLOWERS</text>
+      </g><g class="n" style="animation-delay:0.35s">
+        <text x="532.8" y="72" font-size="30" font-weight="800" fill="#0F172A" letter-spacing="-0.8">19d</text>
+        <text x="532.8" y="92" font-size="10.5" font-weight="700" fill="#64748B" letter-spacing="1.1">BEST STREAK</text>
+      </g><g class="n" style="animation-delay:0.44s">
+        <text x="698.4" y="72" font-size="30" font-weight="800" fill="#0F172A" letter-spacing="-0.8">639</text>
+        <text x="698.4" y="92" font-size="10.5" font-weight="700" fill="#64748B" letter-spacing="1.1">1Y ACTIVITY</text>
+      </g>
+  <line x1="36" y1="112" x2="864" y2="112" stroke="#E2E8F0" stroke-width="1"/>
+  <text x="36" y="128" font-size="10.5" font-weight="700" fill="#64748B" letter-spacing="1.1">MONTHLY COMMIT MOMENTUM</text>
+  <path d="M 36 207.8 C 73.7 207.8, 73.7 205, 111.3 205 C 148.9 205, 148.9 206.4, 186.5 206.4 C 224.2 206.4, 224.2 207, 261.8 207 C 299.5 207, 299.5 207.6, 337.1 207.6 C 374.8 207.6, 374.8 193.9, 412.4 193.9 C 450 193.9, 450 202.2, 487.6 202.2 C 525.3 202.2, 525.3 199.1, 562.9 199.1 C 600.5 199.1, 600.5 207.6, 638.2 207.6 C 675.9 207.6, 675.9 199.5, 713.5 199.5 C 751.1 199.5, 751.1 148, 788.7 148 C 826.4 148, 826.4 184, 864 184 L 864 208 L 36 208 Z" fill="url(#areaGrad)"/>
+  <path class="sparkLine" d="M 36 207.8 C 73.7 207.8, 73.7 205, 111.3 205 C 148.9 205, 148.9 206.4, 186.5 206.4 C 224.2 206.4, 224.2 207, 261.8 207 C 299.5 207, 299.5 207.6, 337.1 207.6 C 374.8 207.6, 374.8 193.9, 412.4 193.9 C 450 193.9, 450 202.2, 487.6 202.2 C 525.3 202.2, 525.3 199.1, 562.9 199.1 C 600.5 199.1, 600.5 207.6, 638.2 207.6 C 675.9 207.6, 675.9 199.5, 713.5 199.5 C 751.1 199.5, 751.1 148, 788.7 148 C 826.4 148, 826.4 184, 864 184" stroke="#ed5d31" stroke-width="2.2" fill="none"/>
+  <circle class="dot" style="animation-delay:0.35s" cx="36" cy="207.8" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.40s" cx="111.3" cy="205" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.45s" cx="186.5" cy="206.4" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.50s" cx="261.8" cy="207" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.55s" cx="337.1" cy="207.6" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.60s" cx="412.4" cy="193.9" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.65s" cx="487.6" cy="202.2" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.70s" cx="562.9" cy="199.1" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.75s" cx="638.2" cy="207.6" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.80s" cx="713.5" cy="199.5" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/><circle class="dot" style="animation-delay:0.85s" cx="788.7" cy="148" r="4.2" fill="#ed5d31" stroke="#ed5d31" stroke-width="1.8"/><text x="788.7" y="139" font-size="9.5" font-weight="800" fill="#ed5d31" text-anchor="middle">298</text><circle class="dot" style="animation-delay:0.90s" cx="864" cy="184" r="2.5" fill="#FFFFFF" stroke="#ed5d31" stroke-width="1.8"/>
+  <text x="36" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Dec</text><text x="111.3" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Jan</text><text x="186.5" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Feb</text><text x="261.8" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Mar</text><text x="337.1" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Apr</text><text x="412.4" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">May</text><text x="487.6" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Jun</text><text x="562.9" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Jul</text><text x="638.2" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Aug</text><text x="713.5" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Sep</text><text x="788.7" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Oct</text><text x="864" y="224" font-size="9.5" font-weight="600" fill="#64748B" text-anchor="middle">Nov</text>
+  <text x="36" y="250" font-size="10.5" font-weight="700" fill="#64748B" letter-spacing="1.1">TOP LANGUAGES</text>
+  <g class="b"><rect x="36.0" y="262" width="265.1" height="8" fill="#ed5d31"/><rect x="303.1" y="262" width="185.0" height="8" fill="#f97316"/><rect x="490.1" y="262" width="158.3" height="8" fill="#c2410c"/><rect x="650.3" y="262" width="104.8" height="8" fill="#fb923c"/><rect x="757.2" y="262" width="104.8" height="8" fill="#9a3412"/></g>
+  <rect x="36" y="286" width="8" height="8" fill="#ed5d31"/><text x="52" y="294" font-size="12" font-weight="600" fill="#475569">Blade <tspan fill="#64748B">32%</tspan></text><rect x="316" y="286" width="8" height="8" fill="#f97316"/><text x="332" y="294" font-size="12" font-weight="600" fill="#475569">TypeScript <tspan fill="#64748B">23%</tspan></text><rect x="596" y="286" width="8" height="8" fill="#c2410c"/><text x="612" y="294" font-size="12" font-weight="600" fill="#475569">HTML <tspan fill="#64748B">19%</tspan></text><rect x="36" y="306" width="8" height="8" fill="#fb923c"/><text x="52" y="314" font-size="12" font-weight="600" fill="#475569">JavaScript <tspan fill="#64748B">13%</tspan></text><rect x="316" y="306" width="8" height="8" fill="#9a3412"/><text x="332" y="314" font-size="12" font-weight="600" fill="#475569">CSS <tspan fill="#64748B">13%</tspan></text>
+</svg>
