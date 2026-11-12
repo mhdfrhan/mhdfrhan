@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <a href="https://hannn.my.id">
   <img src="assets/hero.svg" alt="Muhammad Farhan — Fullstack Web Developer" width="100%" />
@@ -10,7 +10,6 @@
 <a href="https://handigital.biz.id"><img src="https://img.shields.io/badge/Agency-HanDigital-ed5d31?style=for-the-badge&labelColor=09090b" alt="HanDigital" /></a>
 <a href="https://www.linkedin.com/in/muhammad-farhan-79ba79294/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ed5d31?style=for-the-badge&labelColor=09090b" alt="LinkedIn" /></a>
 <a href="https://wa.me/6285121170403"><img src="https://img.shields.io/badge/WhatsApp-Chat-ed5d31?style=for-the-badge&labelColor=09090b" alt="WhatsApp" /></a>
-<a href="mailto:hi.mhdfarhan@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-ed5d31?style=for-the-badge&labelColor=09090b" alt="Email" /></a>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
@@ -70,24 +69,10 @@ Mahasiswa Teknik Informatika dan freelance fullstack developer dengan pengalaman
 ## Aktivitas GitHub
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhdfrhan/mhdfrhan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhdfrhan/mhdfrhan/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mhdfrhan/mhdfrhan/output/github-snake.svg" width="100%" />
-</picture>
-
-<br/><br/>
-
-<a href="https://github.com/mhdfrhan">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mhdfrhan&show_icons=true&hide_border=true&bg_color=09090b&title_color=ed5d31&icon_color=ed5d31&text_color=a1a1aa&ring_color=ed5d31&border_radius=0&include_all_commits=true" />
-</a>
-<a href="https://github.com/mhdfrhan">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdfrhan&layout=compact&hide_border=true&bg_color=09090b&title_color=ed5d31&text_color=a1a1aa&border_radius=0&langs_count=6" />
-</a>
-
+  <img src="assets/heatmap.svg" width="100%" alt="Grafik kontribusi GitHub setahun terakhir" />
+  <br/><br/>
+  <img src="assets/stats.svg" width="100%" alt="Ringkasan GitHub: repositori, bintang, pengikut, streak, dan bahasa teratas" />
 </div>
-
 <img src="assets/divider.svg" width="100%" alt="" />
 
 <div align="center">
