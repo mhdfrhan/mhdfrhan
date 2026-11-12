@@ -17,7 +17,7 @@
 
 ## Tentang
 
-Mahasiswa Teknik Informatika dan freelance fullstack developer dengan pengalaman lebih dari 4 tahun membangun website dan sistem aplikasi. Saya juga menjalankan **[HanDigital](https://handigital.biz.id)**, agensi yang mengerjakan web application & SaaS, sistem informasi & ERP, company profile, dan desain UI/UX. Konsultasi awal gratis.
+Mahasiswa Teknik Informatika dan freelance fullstack developer dengan pengalaman lebih dari <!--years-->4<!--/years--> tahun membangun website dan sistem aplikasi. Saya juga menjalankan **[HanDigital](https://handigital.biz.id)**, agensi yang mengerjakan web application & SaaS, sistem informasi & ERP, company profile, dan desain UI/UX. Konsultasi awal gratis.
 
 <details>
 <summary><b>Layanan HanDigital</b> &nbsp;·&nbsp; klik untuk membuka</summary>
