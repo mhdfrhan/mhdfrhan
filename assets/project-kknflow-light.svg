@@ -10,8 +10,8 @@
     <text x="20" y="30" font-size="11" font-weight="800" letter-spacing="1.4" fill="#ed5d31">02  ·  SAAS PLATFORM</text>
     <text x="418" y="30" font-size="11" font-weight="700" fill="#64748B" text-anchor="end">VIEW ↗</text>
     <text x="20" y="60" font-size="21" font-weight="800" letter-spacing="-0.4" fill="#0F172A">KKNFlow</text>
-    <text x="20" y="84" font-size="12.5" font-weight="500" fill="#475569">Platform manajemen program kerja tim KKN</text>
-    <text x="20" y="102" font-size="12.5" font-weight="500" fill="#475569">dengan log harian, kas digital, &amp; payment gateway.</text>
+    <text x="20" y="84" font-size="12.5" font-weight="500" fill="#475569">Team &amp; work-program management SaaS</text>
+    <text x="20" y="102" font-size="12.5" font-weight="500" fill="#475569">with daily logs, digital ledger &amp; Midtrans pay.</text>
     <g transform="translate(20,124)"><rect width="66" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="33" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">Laravel</text></g><g transform="translate(94,124)"><rect width="66" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="33" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">Inertia</text></g><g transform="translate(168,124)"><rect width="72" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="36" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">Midtrans</text></g><g transform="translate(248,124)"><rect width="38" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="19" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">PWA</text></g>
   </g>
 </svg>

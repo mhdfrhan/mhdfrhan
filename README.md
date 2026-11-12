@@ -17,32 +17,20 @@
 
 </div>
 
-### `01.` Tentang
+### `01.` About
 
-Mahasiswa Teknik Informatika di **Universitas Muhammadiyah Riau** (IPK `3.91 / 4.0`) dan freelance fullstack developer dengan pengalaman lebih dari <!--years-->4<!--/years--> tahun membangun website, sistem informasi enterprise, hingga aplikasi SaaS. Mengelola agensi **[HanDigital](https://handigital.biz.id)** untuk membantu bisnis, UMKM, dan instansi membangun produk digital siap produksi.
+Informatics Engineering undergraduate at **Universitas Muhammadiyah Riau** (`3.92 / 4.0` GPA) and freelance fullstack developer with over <!--years-->4<!--/years--> years of experience building web apps, enterprise information systems, and SaaS products. Founder of **[HanDigital](https://handigital.biz.id)** — helping businesses and organizations ship production-grade digital software. Full background and credentials are on **[hannn.my.id](https://hannn.my.id)**.
 
 <details>
-<summary><b>Layanan HanDigital</b> &nbsp;·&nbsp; klik untuk membuka cakupan</summary>
+<summary><b>HanDigital Services</b> &nbsp;·&nbsp; click to expand</summary>
 <br/>
 
-| Layanan | Cakupan |
+| Service | Scope |
 | :-- | :-- |
-| **Web Application & SaaS** | Dashboard kustom, MVP SaaS, role-based access, payment gateway (Midtrans QRIS/VA) |
-| **Sistem Informasi & ERP** | Inventaris multi-cabang, POS retail, kas digital, administrasi & tracking progres |
-| **Company Profile & Landing Page** | Arsitektur modern, performa tinggi, Core Web Vitals & optimasi SEO/GEO |
-| **UI/UX Product Design** | User research, wireframing, design system di Figma, implementasi presisi |
-
-</details>
-
-<details>
-<summary><b>Pengalaman &amp; Prestasi</b> &nbsp;·&nbsp; klik untuk melihat rekam jejak</summary>
-<br/>
-
-- **Mahasiswa Berprestasi** — Universitas Muhammadiyah Riau (2025)
-- **Juara 1 Web Development** — PERMIKOMNAS (2024)
-- **Juara 1 Web Design AI** — Universitas Aisyiyah Surakarta (2023)
-- **Penerima Beasiswa Prestasi** — Pemerintah Provinsi Riau (2023 – Sekarang)
-- **Web Developer Intern** — PT Netviro (2022 – 2023) · **Siswa Teknologi RPL** SMKN 2 Pekanbaru
+| **Web Application & SaaS** | Custom dashboards, SaaS MVPs, RBAC auth, Midtrans payment gateway (QRIS & Virtual Accounts) |
+| **Information Systems & ERP** | Multi-branch inventory, retail POS, digital accounting, workflow & admin automation |
+| **Company Profile & Landing Page** | Modern editorial architecture, fast load times, Core Web Vitals & SEO/GEO optimization |
+| **UI/UX Product Design** | User flows, wireframes, Figma design systems & pixel-accurate frontend engineering |
 
 </details>
 
@@ -69,7 +57,7 @@ Mahasiswa Teknik Informatika di **Universitas Muhammadiyah Riau** (IPK `3.91 / 4
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### `03.` Proyek Pilihan
+### `03.` Selected Works
 
 <div align="center">
 
@@ -79,31 +67,31 @@ Mahasiswa Teknik Informatika di **Universitas Muhammadiyah Riau** (IPK `3.91 / 4
 
 <br/><br/>
 
-**[Jelajahi seluruh arsip proyek di hannn.my.id/portfolio &rarr;](https://hannn.my.id/portfolio)**
+**[Explore the full project archive at hannn.my.id/portfolio &rarr;](https://hannn.my.id/portfolio)**
 
 </div>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-### `04.` Aktivitas GitHub
+### `04.` GitHub Activity
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg" />
-    <img src="assets/activity-dark.svg" width="100%" alt="Aktivitas commit terbaru di GitHub" />
+    <img src="assets/activity-dark.svg" width="100%" alt="Latest GitHub commit activity" />
   </picture>
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/heatmap-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/heatmap-light.svg" />
-    <img src="assets/heatmap-dark.svg" width="100%" alt="Grafik kontribusi GitHub setahun terakhir" />
+    <img src="assets/heatmap-dark.svg" width="100%" alt="Last year GitHub contribution heatmap" />
   </picture>
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg" />
-    <img src="assets/stats-dark.svg" width="100%" alt="Ringkasan statistik GitHub dan tren commit 12 bulan" />
+    <img src="assets/stats-dark.svg" width="100%" alt="GitHub overview stats and 12-month commit cadence" />
   </picture>
 </div>
 
@@ -111,6 +99,6 @@ Mahasiswa Teknik Informatika di **Universitas Muhammadiyah Riau** (IPK `3.91 / 4
 
 <div align="center">
 
-Punya ide sistem informasi, SaaS, atau website? **[Konsultasi gratis di WhatsApp](https://wa.me/6285121170403)** · **[handigital.biz.id](https://handigital.biz.id)**
+Have a web app, SaaS, or system in mind? **[Free consultation via WhatsApp](https://wa.me/6285121170403)** · **[handigital.biz.id](https://handigital.biz.id)**
 
 </div>

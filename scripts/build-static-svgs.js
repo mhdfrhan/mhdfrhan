@@ -111,7 +111,7 @@ function buildHero(mode) {
   <rect class="line" x="56" y="206" width="240" height="2" fill="${t.accent}"/>
 
   <g class="meta">
-    <text x="56" y="242" font-size="14" font-weight="500" fill="${t.textSecondary}">Mahasiswa Teknik Informatika  ·  <!--years-->${YEARS}<!--/years-->+ tahun membangun web &amp; sistem aplikasi</text>
+    <text x="56" y="242" font-size="14" font-weight="500" fill="${t.textSecondary}">Informatics Engineering  ·  <!--years-->${YEARS}<!--/years-->+ yrs building web apps &amp; systems</text>
     <text x="56" y="268" font-size="13" font-weight="700" fill="${t.textMuted}">hannn.my.id  ·  handigital.biz.id<tspan fill="${t.accent}" class="cursor">  ▍</tspan></text>
   </g>
 </svg>`;
@@ -176,8 +176,8 @@ const PROJECTS = [
     idx: "01",
     cat: "ERP & POS",
     title: "Escaluc OS",
-    desc1: "Sistem ERP & omnichannel Point-of-Sale",
-    desc2: "multi-cabang untuk ritel gadget & stok IMEI.",
+    desc1: "Omnichannel ERP & Point-of-Sale system",
+    desc2: "for multi-branch gadget retail & IMEI tracking.",
     tags: ["Laravel", "Vue.js", "Inertia", "Electron"],
   },
   {
@@ -185,8 +185,8 @@ const PROJECTS = [
     idx: "02",
     cat: "SAAS PLATFORM",
     title: "KKNFlow",
-    desc1: "Platform manajemen program kerja tim KKN",
-    desc2: "dengan log harian, kas digital, & payment gateway.",
+    desc1: "Team & work-program management SaaS",
+    desc2: "with daily logs, digital ledger & Midtrans pay.",
     tags: ["Laravel", "Inertia", "Midtrans", "PWA"],
   },
   {
@@ -194,8 +194,8 @@ const PROJECTS = [
     idx: "03",
     cat: "ENTERPRISE AI",
     title: "Portal BKA UMRI",
-    desc1: "Portal layanan akademik & keuangan kampus",
-    desc2: "Universitas Muhammadiyah Riau berbasis AI.",
+    desc1: "Academic & financial affairs web portal",
+    desc2: "powered by NVIDIA NIM AI request triage.",
     tags: ["React", "TypeScript", "Laravel", "NVIDIA NIM"],
   },
   {
@@ -203,8 +203,8 @@ const PROJECTS = [
     idx: "04",
     cat: "COMMERCE & POS",
     title: "Sala Coffee",
-    desc1: "Sistem kasir, QR digital ordering & inventaris",
-    desc2: "kedai kopi terintegrasi settlement Midtrans.",
+    desc1: "Coffee shop POS, QR table ordering &",
+    desc2: "inventory with automated Midtrans settlement.",
     tags: ["Laravel 12", "Livewire 3", "Tailwind", "Midtrans"],
   },
 ];

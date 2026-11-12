@@ -10,8 +10,8 @@
     <text x="20" y="30" font-size="11" font-weight="800" letter-spacing="1.4" fill="#ed5d31">03  ·  ENTERPRISE AI</text>
     <text x="418" y="30" font-size="11" font-weight="700" fill="#64748B" text-anchor="end">VIEW ↗</text>
     <text x="20" y="60" font-size="21" font-weight="800" letter-spacing="-0.4" fill="#0F172A">Portal BKA UMRI</text>
-    <text x="20" y="84" font-size="12.5" font-weight="500" fill="#475569">Portal layanan akademik &amp; keuangan kampus</text>
-    <text x="20" y="102" font-size="12.5" font-weight="500" fill="#475569">Universitas Muhammadiyah Riau berbasis AI.</text>
+    <text x="20" y="84" font-size="12.5" font-weight="500" fill="#475569">Academic &amp; financial affairs web portal</text>
+    <text x="20" y="102" font-size="12.5" font-weight="500" fill="#475569">powered by NVIDIA NIM AI request triage.</text>
     <g transform="translate(20,124)"><rect width="52" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="26" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">React</text></g><g transform="translate(80,124)"><rect width="86" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="43" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">TypeScript</text></g><g transform="translate(174,124)"><rect width="66" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="33" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">Laravel</text></g><g transform="translate(248,124)"><rect width="86" height="22" fill="#F1F5F9" stroke="#E2E8F0"/><text x="43" y="14.5" font-size="10.5" font-weight="600" fill="#475569" text-anchor="middle">NVIDIA NIM</text></g>
   </g>
 </svg>
